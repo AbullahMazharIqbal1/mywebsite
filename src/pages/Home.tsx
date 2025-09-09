@@ -89,7 +89,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold mb-6 text-foreground">
-              Why Choose <span className="text-gradient">nocvacode</span>?
+              Why Choose <span className="text-gradient">NOVACODE</span>?
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               We deliver cutting-edge solutions with modern technologies and industry best practices
